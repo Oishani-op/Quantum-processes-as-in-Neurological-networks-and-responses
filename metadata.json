@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Synaptic ML & Cognitive Architecture",
+  "description": "A machine learning and theoretical modeling platform exploring quantum synaptic processes, cognitive enhancement interventions, and experimental designs based on the quantum consciousness hypothesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
